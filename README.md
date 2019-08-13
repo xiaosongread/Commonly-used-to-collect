@@ -1,13 +1,22 @@
 # Commonly-used-to-collect
 > 🎉 整理我平时关注的前端库。
 
-1.[vue](#vue)
-+ [api](#api) 
-+ [UI库](#UI库) 
-+ [实用库](#实用库) 
-+ [应用实例](#应用实例) 
-+ [Demo示例](#Demo示例) 
+1.[Vue](#vue)
++ [API](#vueApi) 
++ [UI库](#vueUI库) 
++ [实用库](#vue实用库) 
++ [应用实例](#vue应用实例) 
++ [Demo示例](#vueDemo示例) 
+2.[React](#react)
++ [API](#reactApi) 
++ [UI库](#reactUI库) 
++ [实用库](#react实用库) 
 
+3.[小程序](#小程序)
++ [微信](#reactApi)
++ [支付宝](#reactApi)
++ [今日头条](#reactApi)
++ [百度](#reactApi)
 
 ## 前端框架
 
@@ -19,10 +28,10 @@
 - [mapvue](http://mpvue.com/) - 美团基于 Vue.js 开发小程序的前端框架
 
 ## vue
-### api:
+### vueApi:
 - [vue](https://cn.vuejs.org/v2/api/#v-text)
 - [vue-router](https://router.vuejs.org/zh/)
-### UI库：
+### vueUI库：
 - [elementUi](https://element.eleme.cn/#/zh-CN/component/installation) - 饿了么出品的Vue2的web UI工具套件
 - [VUX](https://vux.li/) - 基于Vue和WeUI的组件库(个人维护)
 - [mint-ui](http://mint-ui.github.io/#!/zh-cn) - Vue 2的移动UI元素
@@ -213,7 +222,7 @@
 - [dd-vue-component](https://github.com/ibufu/dd-vue-component) ★7 - 订单来了的公共组件库 
 - [vue-button](https://github.com/steven5538/vue-button) ★5 - Vue按钮组件 
 
-### 实用库 
+### vue实用库 
 
 - [vuex](https://github.com/vuejs/vuex) ★8043 - 专为 Vue.js 应用程序开发的状态管理模式 
 - [vue-loader](https://github.com/vuejs/vue-loader) ★1847 - Vue.js 针对Webpack的组件装载插件 
@@ -305,7 +314,7 @@
 - [vue-data-validator](https://github.com/phphe/vue-data-validator) ★4 - Vuejs2的数据验证插件 
 - [vue-lazyloadImg](https://github.com/yodfz/vue-lazyloadImg) ★4 - 图片懒加载插件 
 
-### 应用实例 
+### vue应用实例 
 
 - [koel](https://github.com/phanan/koel) ★7773 - 基于网络的个人音频流媒体服务 
 - [pagekit](https://github.com/pagekit/pagekit) ★4225 - 轻量级的CMS建站系统 
@@ -328,7 +337,7 @@
 - [fewords](https://github.com/sapjax/fewords) ★63 - 功能极其简单的笔记本 
 - [adminify](https://github.com/wxs77577/adminify) ★46 - 一个基于Vuetify material的Admin面板 
 
-### Demo示例 
+### vueDemo示例 
 
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) ★8036 - 重写饿了么webapp 
 - [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) ★2491 - 基于vue重写Cnodejs.org的webapp 
@@ -459,3 +468,12 @@
 - [vue-shopping-mall](https://github.com/hj624608494/vue-shopping-mall) ★16 - 基于Vue.js 2.x系列 + vue2-router + axios + iview 商城 
 - [qqmusic](https://github.com/yangbo5207/qqmusic) ★13 - QQ音乐vue 
 - [vue-weather](https://github.com/deshes/vue-weather) ★12 - VueJS天气demo 
+
+
+
+
+## react
+
+### reactApi
+### reactUI库
+### react实用库
