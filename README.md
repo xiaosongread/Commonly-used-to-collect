@@ -1,6 +1,14 @@
 # Commonly-used-to-collect
 > 🎉 整理我平时关注的前端库。
 
+1.[vue](#vue)
++ [api](#api) 
++ [UI库](#UI库) 
++ [实用库](#实用库) 
++ [应用实例](#应用实例) 
++ [Demo示例](#Demo示例) 
+
+
 ## 前端框架
 
 - [vue](https://github.com/vuejs/vue)
@@ -14,8 +22,6 @@
 ### api:
 - [vue](https://cn.vuejs.org/v2/api/#v-text)
 - [vue-router](https://router.vuejs.org/zh/)
-### 常用插件库:
-- [常用插件库](https://segmentfault.com/p/1210000008583242/read?from=timeline)
 ### UI库：
 - [elementUi](https://element.eleme.cn/#/zh-CN/component/installation) - 饿了么出品的Vue2的web UI工具套件
 - [VUX](https://vux.li/) - 基于Vue和WeUI的组件库(个人维护)
