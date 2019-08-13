@@ -1,22 +1,27 @@
 # Commonly-used-to-collect
 > 🎉 整理我平时关注的前端库。
 
+## 导航：
+
 1.[Vue](#vue)
 + [API](#vueApi) 
 + [UI库](#vueUI库) 
 + [实用库](#vue实用库) 
 + [应用实例](#vue应用实例) 
 + [Demo示例](#vueDemo示例) 
+
 2.[React](#react)
 + [API](#reactApi) 
 + [UI库](#reactUI库) 
 + [实用库](#react实用库) 
 
 3.[小程序](#小程序)
-+ [微信](#reactApi)
-+ [支付宝](#reactApi)
-+ [今日头条](#reactApi)
-+ [百度](#reactApi)
++ [微信](#微信Api)
++ [支付宝](#支付宝Api)
++ [今日头条](#今日头条Api)
++ [百度](#百度Api)
+4.webpack(#webpack)
+5.typeScript(#typeScript)
 
 ## 前端框架
 
@@ -469,11 +474,41 @@
 - [qqmusic](https://github.com/yangbo5207/qqmusic) ★13 - QQ音乐vue 
 - [vue-weather](https://github.com/deshes/vue-weather) ★12 - VueJS天气demo 
 
-
-
+---
 
 ## react
 
 ### reactApi
+- [react](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
+- [react](http://cn.redux.js.org/docs/introduction/Motivation.html)
+
 ### reactUI库
+- [ant-design](https://ant.design/index-cn)- 蚂蚁金服的 React UI 库
+- [react-loadable](http://cn.redux.js.org/docs/introduction/Motivation.html)- 按需加载 react 组件
+- [material-ui](https://github.com/mui-org/material-ui) - UI 库
 ### react实用库
+- [react-dnd](https://github.com/react-dnd/react-dnd) - 拖拽实现
+
+---
+
+## 小程序
+
+### 微信Api
+[微信Api](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/api.html)
+### 支付宝Api
+[支付宝Api](https://docs.alipay.com/mini/developer/getting-started)
+### 微信Api
+[今日头条Api](https://developer.toutiao.com/docs/framework/)
+### 微信Api
+[百度Api](https://smartprogram.baidu.com/developer/index.html)
+
+---
+## webpack
+- [webpack](https://www.webpackjs.com/)
+
+---
+
+## typeScript
+- [webpack](https://www.tslang.cn/docs/handbook/jsx.html)
+
+
